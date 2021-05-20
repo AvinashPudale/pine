@@ -1,12 +1,12 @@
-title: Pine
-description: 🌲 Control aircon by monitoring temperature in other parts of the room 🎐
-url: "https://hutscape.com/pine"
+title: Avinash project 
+description: 🌲 test to see webpage discreption 🎐
+url: "test"
 markdown: kramdown
 permalink: /:title
 google_analytics: UA-144008567-1
-youtube: https://www.youtube.com/user/sweska/videos
+youtube: https://www.youtube.com/
 github:
-  repository_url: https://github.com/hutscape/pine
+  repository_url: https://github.com/AvinashPudale/pine
   raw_content_url: https://raw.githubusercontent.com/hutscape/pine/master
 exclude: ["datasheets", "Gemfile", "Gemfile.lock", "contributing.md", "Makefile", "readme.md", "test", "scripts", "firmware"]
 include: ["_data"]
